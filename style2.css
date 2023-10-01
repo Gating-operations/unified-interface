@@ -1,0 +1,170 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+a{
+text-decoratiom:none;
+}
+header{
+background-size: cover;
+ height:55vh;
+ width=:10vw;
+background-image:url('images/bg4.jpg');
+display:flex;
+align-items:flex-end;
+justify-content:center;
+background-position:center;
+}
+.headercont{
+color:none;
+text-align: center;
+
+}
+.headercont h2{
+font-size:4vmin;
+}
+.line{
+
+width:160px;
+height:4px;
+background:orange;
+margin:0px auto;
+}
+
+.headercont h1{
+font-size:5vmin;
+margin-top:0px;
+margin-bottom:0px;
+}
+.ctn{
+padding:3px 9px;
+background:orange;
+color:white;
+border-radius:15px 15px 15px 15px;
+scroll-behavior: smooth;
+}
+a{
+text-decoration:none;
+
+}
+.space{
+margin-top:6px;
+}
+.ctn:hover{
+background:white;
+color:orange;
+}
+
+
+section{
+width:100%;
+margin:100px auto;
+}
+.titl{
+text-align: center;
+font-size:3vmin;
+margin-bottom:20px;
+color:#797169;
+
+}
+
+.titl p{
+
+Padding-top:80px;
+align:Center;
+padding-bottom:5px;
+color:#797169;
+font-style: italic;
+}
+
+.Cont1{
+width:1000px;
+margin:auto;
+border: 1px black;
+display:flex;
+flex-wrap:wrap;
+justify-content:space-around;
+background-color: White;
+opacity:0.7;
+}
+
+.cont11{
+flex-basis:30%;
+margin:10px 0;
+border: 1px black;
+box-shadow:0px 0px 5px 2px black;
+text-align:center;
+padding:20px 0px;
+
+}
+
+.cont11:hover{
+box-shadow:0px 0px 10px 1px black;
+transform: scale(1.03);
+background-color:orange;
+border-color: black;
+border-width: 10px;
+Color:black;
+}
+
+.cont11 button{
+background-color:orange;
+color:black;
+border-color:black;
+padding:10px 20px;
+border-radius:10px;
+}
+
+.cont11 button:hover{
+
+border-color:orange;
+transform: scale(1.09);
+background-color:black;
+color:orange;
+border: 2px black;
+border-color:black;
+
+}
+
+.cont11 h3{
+padding:10px 0;
+font-family:Century Gothic;
+color:black;
+}
+.cont11 p{
+font-size:14px;
+padding:10px;
+}
+
+.cont11:hover{
+background-color:orange;
+Color:black;
+border-color:black;
+border-width: 5px;
+}
+
+.line1{
+
+width:160px;
+height:4px;
+background:orange;
+margin:0px auto;
+}
+.line1:hover{
+
+width:190px;
+height:6px;
+background:black;
+margin:0px auto;
+}
+
+.titl q{
+padding-right: 5px;
+text-align: right;
+font-size:2vmin;
+margin-bottom:10px;
+color:#ed9242;
+}
